@@ -1,0 +1,39 @@
+.hero {
+    background-image: url('/home/karthik-unni/Downloads/1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    text-align: center;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 4rem;
+    color: black;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.hero button {
+    padding: 10px 20px;
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.hero button:hover {
+    background-color: #e64a19;
+}

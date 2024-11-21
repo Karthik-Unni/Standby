@@ -1,0 +1,60 @@
+.cuisines {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.cuisines h2 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.cuisine-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.cuisine-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    width: 200px;
+}
+
+.cuisine {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cuisine img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 0.5rem;
+}
+
+.cuisine h3 {
+    font-size: 1.2rem;
+    color: #ff6b6b;
+}
+
+.cuisine p {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.center-image {
+    width: 250px;
+}
+
+.center-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}

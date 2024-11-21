@@ -1,0 +1,21 @@
+.why-choose-us {
+    padding: 2rem;
+    background-color: #fafafa;
+}
+
+.why-choose-us h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.why-choose-us ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.why-choose-us li {
+    font-size: 1rem;
+    color: #333;
+    margin: 0.5rem 0;
+}
